@@ -1,0 +1,31 @@
+# Güvenlik ve Gizli Anahtarlar (Kesinlikle Pushlanmamalı)
+api/serviceAccountKey.json
+mobile_app/android/app/src/main/google-services.json
+mobile_app/ios/Runner/GoogleService-Info.plist
+.env
+
+# Python & API
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.vscode/
+*.h5
+*.keras
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Flutter & Dart
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Mac/OS
+.DS_Store
